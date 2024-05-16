@@ -1,5 +1,5 @@
 
-**The project counting the days of life lived**
+**The project counting the days of life lived (days of life.py)**
 
 Description: the user enters the date of birth, and the program counts the number of days between the date of his birth and the current day
 
@@ -19,7 +19,7 @@ Methods:
 
 
 
-**The calculator project**
+**The calculator project (calculator.py)**
 
 Description: calculator
 
@@ -40,7 +40,7 @@ Methods:
 
 
 
-**The car dealership project**
+**The car dealership project (car_salon.py)**
 
 There are two classes in the project: Car, Car_Dealership
    
@@ -61,7 +61,7 @@ A custom menu has also been implemented where the user can work with the Car_Dea
 
 
 
-**The beauty salon project**
+**The beauty salon project (days of life.py)**
 
 There are three classes in the project: Services, Masters, Nail_polish, Salon
 
