@@ -47,7 +47,7 @@ def what_to_do(first_num, second_num):
 
 
 
-def my_func(num_val):
+def enter_your_num(num_val):
     val = input('Enter ' + num_val + ' number: ')
 
     is_it_int_first = intTry(val)
@@ -72,8 +72,8 @@ def to_be_continue():
 
 #start
 def my_calculator():
-    first_num = my_func('first')
-    second_num = my_func('second')
+    first_num = enter_your_num('first')
+    second_num = enter_your_num('second')
     result = what_to_do(first_num, second_num)
 
     what_about_continue = to_be_continue()
@@ -87,12 +87,12 @@ def my_calculator():
 
         if use_res == 'yes':
             first_num = int(result)
-            second_num = my_func('second')
+            second_num = enter_your_num('second')
             result = what_to_do(first_num, second_num)
 
         else:
-            first_num = my_func('first')
-            second_num = my_func('second')
+            first_num = enter_your_num('first')
+            second_num = enter_your_num('second')
             result = what_to_do(first_num, second_num)
 
         what_about_continue = to_be_continue()
