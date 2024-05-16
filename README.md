@@ -1,11 +1,16 @@
 
 **The project counting the days of life lived**
+
 Description: the user enters the date of birth, and the program counts the number of days between the date of his birth and the current day
+
 
 Methods: 
 1.your_birthday – the main method
+
 2.check_future – the method checks if the user entered a date from the future 
+
 3.getting_date - checking the correctness of date numbers
+
 4.intTry – checks for a number
 
 
