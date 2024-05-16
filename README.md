@@ -17,7 +17,7 @@ Description: calculator
 Methods: 
 1.my_calculator – the main method
 2.to_be_continue – the method asks if the user wants to continue 
-3.my_func – method requests a number from the user
+3.enter_your_num – the method requests a number from the user
 4.what_to_do – request the operation
 5.intTry – checks for a number
 
