@@ -62,6 +62,7 @@ A custom menu has also been implemented where the user can work with the Car_Dea
 
 
 **The beauty salon project**
+
 There are three classes in the project: Services, Masters, Nail_polish, Salon
 
 Class Salon
