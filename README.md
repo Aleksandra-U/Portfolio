@@ -5,6 +5,7 @@ Description: the user enters the date of birth, and the program counts the numbe
 
 
 Methods: 
+
 1.your_birthday – the main method
 
 2.check_future – the method checks if the user entered a date from the future 
@@ -24,6 +25,7 @@ Description: calculator
 
 
 Methods: 
+
 1.my_calculator – the main method
 
 2.to_be_continue – the method asks if the user wants to continue 
